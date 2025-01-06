@@ -14,7 +14,7 @@ Amante de tecnologia e programação desde jovem, sempre buscando aprender mais 
 
 🐍 Linguagens: Python, JavaScript
 
-🤖 IA/ML: Modelos de IA, Processamento de Linguagem Natural (NLP), Chatbots, LLM, Diffusers, Voice Cloning.
+🤖 IA/ML: Modelos de IA, Processamento de Linguagem Natural (NLP), Chatbots, LLM, Diffusers, Voice Cloning (TTS & VC).
 
 🌐 Web Development: HTML, CSS, Flask, Django, Celery
 
