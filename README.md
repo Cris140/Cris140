@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Olá, eu sou Cristhian Reinhard!
 
-<!--
-**Cris140/Cris140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Sobre mim:
+Amante de tecnologia e programação desde jovem, sempre buscando aprender mais e me desafiar. Atualmente, estou focado em:
 
-Here are some ideas to get you started:
+🌟 Trabalhar com Modelos de Inteligência Artificial (IA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Explorando novos horizontes na área de programação
+
+🛠️ Criando projetos pessoais como [Falatron](falatron.com), meu site desenvolvido como um hobby para aprender e viabilizar o uso de IA ao público.
+
+🧠 Habilidades e Tecnologias
+🐍 Linguagens: Python, JavaScript
+🤖 IA/ML: Modelos de IA, Processamento de Linguagem Natural, Chatbots
+🌐 Web Development: HTML, CSS, Flask, Django, Celery
+
+⚙️ Ferramentas: Git, Docker, VS Code, APIs RESTful
+
+🎯 Projetos
+[Falatron](falatron.com) - Meu site pessoal, plataforma gratuíta de IA acessível ao público.
+
+
+Atualmente, estou explorando e utilizando ferramentas de orquestração como Kubernetes, ampliando minha capacidade de gerenciar aplicações em escala.
+
+
+📫 Contato:
+
+🌐 Site: falatron.com
+📧 Email: cristhianoliveira140@gmail.com
+💼 LinkedIn: linkedin.com/in/cristhian-reinhard
