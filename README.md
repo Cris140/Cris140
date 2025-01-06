@@ -26,5 +26,7 @@ Atualmente, estou explorando e utilizando ferramentas de orquestração como Kub
 📫 Contato:
 
 🌐 Site: falatron.com
+
 📧 Email: cristhianoliveira140@gmail.com
+
 💼 LinkedIn: linkedin.com/in/cristhian-reinhard
