@@ -1,4 +1,4 @@
-👋 Olá, eu sou Cristhian Reinhard!
+👋 Olá, meu nome é Cristhian Reinhard!
 
 💻 Sobre mim:
 Amante de tecnologia e programação desde jovem, sempre buscando aprender mais e me desafiar. Atualmente, estou focado em:
