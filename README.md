@@ -35,3 +35,5 @@ Atualmente, estou explorando e utilizando ferramentas de orquestração como Kub
 📧 Email: [cristhianoliveira140@gmail.com](mailto:cristhianoliveira140@gmail.com)
 
 💼 LinkedIn: [Linkedin](https://linkedin.com/in/cristhian-reinhard)
+
+<img src="https://img.icons8.com/color/20/000000/discord--v2.png" height="20"/> Discord: [ cris140](https://discord.com/users/cris140)
