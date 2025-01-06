@@ -9,7 +9,8 @@ Amante de tecnologia e programação desde jovem, sempre buscando aprender mais 
 
 🛠️ Criando projetos pessoais como [Falatron](falatron.com), meu site desenvolvido como um hobby para aprender e viabilizar o uso de IA ao público.
 
-🧠 Habilidades e Tecnologias
+
+🧠 Habilidades e Tecnologias:
 
 🐍 Linguagens: Python, JavaScript
 
@@ -19,7 +20,8 @@ Amante de tecnologia e programação desde jovem, sempre buscando aprender mais 
 
 ⚙️ Ferramentas: Git, Docker, VS Code, APIs RESTful
 
-🎯 Projetos
+
+🎯 Projetos :
 [Falatron](falatron.com) - Meu site pessoal, plataforma gratuíta de IA acessível ao público.
 
 
