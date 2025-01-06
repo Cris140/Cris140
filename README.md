@@ -34,4 +34,4 @@ Atualmente, estou explorando e utilizando ferramentas de orquestração como Kub
 
 📧 Email: [cristhianoliveira140@gmail.com](mailto:cristhianoliveira140@gmail.com)
 
-💼 LinkedIn: [Linkedin](linkedin.com/in/cristhian-reinhard)
+💼 LinkedIn: [Linkedin](https://linkedin.com/in/cristhian-reinhard)
