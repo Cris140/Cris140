@@ -7,7 +7,7 @@ Amante de tecnologia e programação desde jovem, sempre buscando aprender mais 
 
 🚀 Explorando novos horizontes na área de programação
 
-🛠️ Criando projetos pessoais como [Falatron](falatron.com), meu site desenvolvido como um hobby para aprender e viabilizar o uso de IA ao público.
+🛠️ Criando projetos pessoais como [Falatron](https://falatron.com), meu site desenvolvido como um hobby para aprender e viabilizar o uso de IA ao público.
 
 
 🧠 Habilidades e Tecnologias:
@@ -22,7 +22,7 @@ Amante de tecnologia e programação desde jovem, sempre buscando aprender mais 
 
 
 🎯 Projetos :
-[Falatron](falatron.com) - Meu site pessoal, plataforma gratuíta de IA acessível ao público.
+[Falatron](https://falatron.com) - Meu site pessoal, plataforma gratuíta de IA acessível ao público.
 
 
 Atualmente, estou explorando e utilizando ferramentas de orquestração como Kubernetes, ampliando minha capacidade de gerenciar aplicações em escala.
