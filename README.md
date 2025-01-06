@@ -10,8 +10,11 @@ Amante de tecnologia e programação desde jovem, sempre buscando aprender mais 
 🛠️ Criando projetos pessoais como [Falatron](falatron.com), meu site desenvolvido como um hobby para aprender e viabilizar o uso de IA ao público.
 
 🧠 Habilidades e Tecnologias
+
 🐍 Linguagens: Python, JavaScript
-🤖 IA/ML: Modelos de IA, Processamento de Linguagem Natural, Chatbots
+
+🤖 IA/ML: Modelos de IA, Processamento de Linguagem Natural (NLP), Chatbots, LLM, Diffusers, Voice Cloning.
+
 🌐 Web Development: HTML, CSS, Flask, Django, Celery
 
 ⚙️ Ferramentas: Git, Docker, VS Code, APIs RESTful
@@ -25,8 +28,8 @@ Atualmente, estou explorando e utilizando ferramentas de orquestração como Kub
 
 📫 Contato:
 
-🌐 Site: falatron.com
+🌐 Site: [Falatron](falatron.com)
 
-📧 Email: cristhianoliveira140@gmail.com
+📧 Email: [cristhianoliveira140@gmail.com](mailto:cristhianoliveira140@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/cristhian-reinhard
+💼 LinkedIn: [Linkedin](linkedin.com/in/cristhian-reinhard)
