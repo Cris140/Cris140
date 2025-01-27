@@ -1,36 +1,36 @@
-👋 Olá, meu nome é Cristhian Reinhard!
+👋 Hello, my name is Cristhian Reinhard!
 
-💻 Sobre mim:
-Amante de tecnologia e programação desde jovem, sempre buscando aprender mais e me desafiar. Atualmente, estou focado em:
+💻 About Me:
+A technology and programming enthusiast from a young age, always eager to learn more and challenge myself. Currently, I'm focused on:
 
-🌟 Trabalhar com Modelos de Inteligência Artificial (IA)
+🌟 Working with Artificial Intelligence (AI) Models
 
-🚀 Explorando novos horizontes na área de programação
+🚀 Exploring new horizons in programming
 
-🛠️ Criando projetos pessoais como [Falatron](https://falatron.com), meu site desenvolvido como um hobby para aprender e viabilizar o uso de IA ao público.
+🛠️ Creating personal projects like [Falatron](https://falatron.com), my website developed as a hobby to learn and make AI accessible to the public.
 
 
-🧠 Habilidades e Tecnologias:
+🧠 Skills and Technologies:
 
-🐍 Linguagens: Python, JavaScript
+🐍 Languages: Python, JavaScript
 
-🤖 IA/ML: Modelos de IA, Processamento de Linguagem Natural (NLP), Chatbots, LLM, Diffusers, Voice Cloning (TTS & VC).
+🤖 AI/ML: AI Models, Natural Language Processing (NLP), Chatbots, LLM, Diffusers, Voice Cloning (TTS & VC).
 
 🌐 Web Development: HTML, CSS, Flask, Django, Celery
 
-⚙️ Ferramentas: Git, Docker, VS Code, APIs RESTful
+⚙️ Tools: Git, Docker, VS Code, RESTful APIs
 
 
 🎯 Projetos :
-[Falatron](https://falatron.com) - Meu site pessoal, plataforma gratuíta de IA acessível ao público.
+[Falatron](https://falatron.com) - - My website, a free AI platform accessible to the public.
 
 
-Atualmente, estou explorando e utilizando ferramentas de orquestração como Kubernetes, ampliando minha capacidade de gerenciar aplicações em escala.
+Currently, I am exploring and utilizing orchestration tools like Kubernetes, enhancing my ability to manage applications at scale.
 
 
-📫 Contato:
+📫 Contact:
 
-🌐 Site: [Falatron](https://falatron.com)
+🌐 Website: [Falatron](https://falatron.com)
 
 📧 Email: [cristhianoliveira140@gmail.com](mailto:cristhianoliveira140@gmail.com)
 
